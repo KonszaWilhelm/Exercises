@@ -1,0 +1,15 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(œä¢ÿùÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é†¦
+U
+java:S1854"?Remove this useless assignment to local variable "againString".(¨û„ú
+S
+java:S1197"8Move the array designator from the variable to the type.(òƒêøÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(«µ ‰ÿÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(¨û„ú
+F
+java:S1481"0Remove this unused "againString" local variable.(¨û„ú
+Q	java:S125"<This block of commented-out lines of code should be removed.(™ü“¿

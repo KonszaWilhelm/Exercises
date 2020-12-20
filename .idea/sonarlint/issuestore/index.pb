@@ -1,0 +1,43 @@
+
+N
+src/exercises/SumOfDigits.java,0\e\0e515c2ca16071797100c47450262b7f192e1495
+[
++src/exercises/DistanceBetweenTwoPoints.java,a\b\ab250a55861c7d47de72c53dfdec0cb3899b1d99
+Q
+!src/exercises/ArrayOfObjects.java,c\3\c30aeb1435c36cfdfd73bc60495807780eee29f0
+P
+ src/exercises/ReverseString.java,f\7\f7deb775d7a1eefa6c36d153e9b834f2fc4af83b
+Q
+!src/exercises/DecimalToOctal.java,9\8\98dfc9efa9be9b6e65e35e0975d612f184c34f88
+]
+-src/exercises/ComparingTwoNumsFormatArgs.java,7\d\7da602c5c14ff1a9c0be411bd46fce1a62466888
+N
+src/exercises/Leaderboard.java,0\5\05efcdb0ee6256b98f459cef2efe0adf65d08fa1
+V
+&src/exercises/BinaryToDecAndViceV.java,3\8\3819899853695870e832130740a81aa3a41b3509
+P
+ src/exercises/DecimalToHexa.java,c\d\cdd5e5e12a68453d57f738902671f911865bd16c
+P
+ src/exercises/AreaOfHexagon.java,c\f\cfff629aa9281e0c7cb8880879b2c0b60282bb22
+k
+;src/javaprogrammingmasterclass/exercises/ComplexNumber.java,5\5\55385810fb143988140636e396d32966a16dba57
+n
+>src/javaprogrammingmasterclass/composition/pc/Motherboard.java,8\2\82931ff25ede8309be1d33516da1a06ef5ac9608
+n
+>src/javaprogrammingmasterclass/polymorphism/UsualSuspects.java,b\f\bf94a631cc73e3f5f7f794d449928b2d5ef48a99
+j
+:src/javaprogrammingmasterclass/exercises/EvenDigitSum.java,4\a\4a5a54f462b55c5b42986542fe0b90c4b2c9505e
+g
+7src/javaprogrammingmasterclass/arrays/ReverseArray.java,b\9\b94f00a3552ed9484d2437a46fdc928d3c6c623e
+q
+Asrc/javaprogrammingmasterclass/exercises/NumberOfDaysInMonth.java,d\6\d6242b8fcc4221ad3b0865108086e5c7b3de1b5d
+l
+<src/javaprogrammingmasterclass/polymorphism/RandomMovie.java,8\0\80683733e5f7c587edd0f17e54fb60c36f1192d5
+s
+Csrc/javaprogrammingmasterclass/exercises/GreatestCommonDivisor.java,b\8\b84e1a0b1da9d02edd45f76aa679deeedd1c956a
+a
+1src/javaprogrammingmasterclass/arrays/Arrays.java,3\0\3067743a479d9c4ea3d30bfad08a730fcef897c2
+o
+?src/javaprogrammingmasterclass/polymorphism/car/Mitsubishi.java,d\5\d59381bf1b3d1c55f0cb20d1ebf211bc24e094d4
+B
+src/main/Main.java,f\e\fe03b4fd3afe162c6e01309b98a22588e093d274
