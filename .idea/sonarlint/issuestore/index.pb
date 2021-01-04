@@ -43,3 +43,11 @@ B
 src/main/Main.java,f\e\fe03b4fd3afe162c6e01309b98a22588e093d274
 e
 5src/javaprogrammingmasterclass/interfaces/Player.java,2\2\2229c7f3753608dea74890d80a5adbaf443573c3
+j
+:src/javaprogrammingmasterclass/inheritance/MyThisTest.java,2\c\2c3e0e184cf77ec43e09a5bc656ea21f40e2b375
+f
+6src/javaprogrammingmasterclass/abstraction/CanFly.java,0\2\0243884d86c8503a4a7b49f5e34bb68fe949d089
+f
+6src/javaprogrammingmasterclass/abstraction/Animal.java,d\e\dec85ebefb6622c60bfe32dff5bfa05dea83b0ed
+e
+5src/javaprogrammingmasterclass/abstraction/Eagle.java,4\b\4b78291fa06c7e9c6e149007f1a6e8389a6de3bb

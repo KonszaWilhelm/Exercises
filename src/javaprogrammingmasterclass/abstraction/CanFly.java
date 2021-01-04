@@ -1,6 +1,6 @@
 package javaprogrammingmasterclass.abstraction;
 
-public interface FlyingBirds {
+public interface CanFly {
 
      void fly();
 
